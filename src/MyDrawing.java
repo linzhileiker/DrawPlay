@@ -3,7 +3,9 @@ import java.awt.Graphics;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-
+/*
+ * Adds the cat and other critters to the drawing and draws to the screen.
+ */
 public class MyDrawing extends JPanel {
 	private Cat cat;
 	public MyDrawing() 
